@@ -1,7 +1,3 @@
 this is only a test. hey hey girl, you pretty cute, you know that?
 
-DECLARE FOO=1; BAR=0
-FOO+BAR
-
-
-Display 1
+PUSH COMMIT PULL
